@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.4.0",
-    "lodash":">=4.17.19"
+    "lodash":">=4.17.21"
   }
 }
